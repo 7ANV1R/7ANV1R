@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**tanvir7878/tanvir7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋, I'm 7ANV1R</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+</p>
+<h3 align="right">Connect with me :</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/Tanvir_ibnmizan">
+  <img align="right" alt="Tanvir Ibn Mizan - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<br/>
+<br/>
+ <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=tanvir7878&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/tanvir7878"/>
+
+
+---
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
