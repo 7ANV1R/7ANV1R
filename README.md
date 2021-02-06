@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi 👋, I'm 7ANV1R</h1>
 
-[![HitCount](http://hits.dwyl.com/tanvir7878/tanvir7878.svg)](http://hits.dwyl.com/tanvir7878/tanvir7878)
+[![HitCount](http://hits.dwyl.com/tanvir7878/tanvir7878.svg)](http://hits.dwyl.com/tanvir7878/tanvir7878)<br/>
 
 
 <h3 align="right">Connect with me :</h3>
@@ -12,10 +12,12 @@
 <br/>
 <br/>
  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=tanvir7878&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/tanvir7878"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir7878&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
