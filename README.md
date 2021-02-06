@@ -3,9 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/tanvir7878/tanvir7878.svg)](http://hits.dwyl.com/tanvir7878/tanvir7878)
 
-<p align="center">
-  [![HitCount](http://hits.dwyl.com/tanvir7878/tanvir7878.svg)](http://hits.dwyl.com/tanvir7878/tanvir7878)
-</p>
+
 <h3 align="right">Connect with me :</h3>
 
 <a href="https://twitter.com/Tanvir_ibnmizan">
