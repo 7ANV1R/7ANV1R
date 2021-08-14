@@ -1,7 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm 7ANV1R</h1>
 
-[![HitCount](http://hits.dwyl.com/tanvir7878/tanvir7878.svg)](http://hits.dwyl.com/tanvir7878/tanvir7878)<br/>
 
 
 <h3 align="right">Connect with me :</h3>
