@@ -10,8 +10,7 @@
 </a>
 <br/>
 <br/>
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=tanvir7878&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/tanvir7878"/>
-
+ 
 
 ---
 
