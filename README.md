@@ -1,4 +1,5 @@
-
+[](http://hits.dwyl.com/7ANV1R/7ANV1R)
+<img src="https://wakatime.com/badge/user/f705279b-7ebe-4c84-8754-d87c013658d7.svg"> <br>
 <h2 align="center">Hi 👋, I'm 7ANV1R</h1>
 
 
