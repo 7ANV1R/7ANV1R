@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/f705279b-7ebe-4c84-8754-d87c013658d7.svg" alt="WakaTime hours">
+  <a href="https://tanvir.wiki"><img src="assets/site.svg" height="48" alt="tanvir.wiki"></a>
 </p>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" role="img" aria-label="tanvir.wiki">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+.ring { transform-origin: 26px 24px; animation: ping 2s ease-out infinite; }
+@keyframes ping { 0% { transform: scale(1); opacity: .7; } 80%, 100% { transform: scale(2.6); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ring { animation: none; opacity: 0; } }
+</style>
+<rect x="1" y="1" width="198" height="46" rx="14" fill="#161312" stroke="#353334" stroke-width="1.5"/>
+<circle class="ring" cx="26" cy="24" r="5" fill="#7cc248"/>
+<circle cx="26" cy="24" r="5" fill="#7cc248"/>
+<text x="44" y="29" font-size="16" fill="#f2f5f0">tanvir.wiki</text>
+<path d="M164 30l10-10m-7 0h7v7" fill="none" stroke="#7cc248" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
